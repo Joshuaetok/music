@@ -15,8 +15,8 @@ if ($_SERVER['SERVER_NAME'] == "localhost") {
 
     define("DBDRIVER", "mysql");
     define("DBHOST", "localhost");
-    define("DBUSER", "ajalaafrica_ajalaafrica");
-    define("DBPASS", "Jeremiah1234#");
-    define("DBNAME", "ajalaafrica_music_website_db");
+    define("DBUSER", "root");
+    define("DBPASS", "");
+    define("DBNAME", "music_website_db");
     define("DBSOCKET", ""); // Add this line
 }
